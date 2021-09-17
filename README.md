@@ -17,3 +17,4 @@
 ### TODO
 - Next I will be focusing more on TypeScript tooling which will help me to build web applications with Typescript.
 - I will also focus on HTML basics and will go over this book [Fundamentals of Web Programming: HTML Basics](https://runestone.academy/runestone/books/published/webfundamentals/HTML/toctree.html) as it includes active code (edit and “run” the HTML samples to see how they render) and interactive exercises and a quiz.
+- [Milestone 2] Next I will definitely be focusing on TypeScript and React along with javaScript. TypeScript is an object-oriented programming language and I will familiarize myself with the following topics related to typeScript: Classes and objects, inheritance, Polymorphism, Abstraction, how to use TypeScript's Object, object, and {object} object types.
