@@ -16,5 +16,3 @@
 ### TODO
 - Next I will be focusing more on TypeScript tooling which will help me to build web applications with Typescript.
 - I will also focus on HTML basics and will go over this book [Fundamentals of Web Programming: HTML Basics](https://runestone.academy/runestone/books/published/webfundamentals/HTML/toctree.html) as it includes active code (edit and “run” the HTML samples to see how they render) and interactive exercises and a quiz.
-
-
