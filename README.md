@@ -8,6 +8,13 @@
 - I went through the “Typescript for JavaScript” tutorial and completed most of the modules.
 - I also went through a website that guides beginners setting up a Web Application with Typescript: [Beginner’s Guide to set up a Web Application with TypeScript](https://codeburst.io/a-beginners-guide-to-setting-up-a-web-application-with-typescript-and-express-e1cf8319bc5c)
 - Typescript adds additional syntax to javascript to support a tighter integration with editor. Catch errors early in the editor. ‘Any’ type can save us in moments where needed but it shouldn't be used without valid reason. We can aim towards a better codebase through reducing occurrences of implicitly typed any.
+- [Milestone 2] I followed the feedback from last week and went through CSS, HTML, Git tutorials.
+- I have made a html page with CSS styling and javaScript[html page](https://mnawar27.github.io/scratch/) 
+[repository link for the html page](https://github.com/mnawar27/scratch)
+- The html page represents some of the clubs and organizations in University of Delaware and gives a short description about the clubs and also it let users count how many clubs they have joined.
+
 ### TODO
 - Next I will be focusing more on TypeScript tooling which will help me to build web applications with Typescript.
 - I will also focus on HTML basics and will go over this book [Fundamentals of Web Programming: HTML Basics](https://runestone.academy/runestone/books/published/webfundamentals/HTML/toctree.html) as it includes active code (edit and “run” the HTML samples to see how they render) and interactive exercises and a quiz.
+
+
