@@ -14,7 +14,7 @@
  - I also went through javascript tutorial and went through this book named [Eloquent JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
  - [Milestone 3] I followed the feedback from last week and went through React, Typscript, Bootstrap tutorials.
  - I have made an application with React, bootstrap and typescript: [link to the app](https://mnawar27.github.io/fitness-app/), repository link: [Repo](https://github.com/mnawar27/fitness-app.git) 
- - The applcation is a fitness based application which generates important fitness questions about health, fitness and exercise and helps the user to know about fitness by revealing the answers. There are multiple function in the application such as you can swap question cards, reveal answers, add and shuffle users, even add fitness questions from your own.
+ - The applcation is a fitness based application which generates important fitness questions about health, fitness and exercise and helps the user to know about fitness by revealing the answers. There are multiple functions in the application such as you can swap question cards, reveal answers, add and shuffle users, even add fitness questions from your own.
  - I also went through this book called [Programming Typescript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/) which really made my understanding of typescript stronger.
 
 ### TODO
