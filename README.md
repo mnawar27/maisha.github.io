@@ -12,6 +12,8 @@
 - I have made a html page with CSS styling and javaScript: [html page](https://mnawar27.github.io/scratch/), repository link for the html page: [Repo](https://github.com/mnawar27/scratch.git)
 - The html page represents some of the clubs and organizations in University of Delaware and gives a short description about the clubs and also it let users count how many clubs they have joined.
  - I also went through javascript tutorial and went through this book named [Eloquent JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+ - [Milestone 3] I followed the feedback from last week and went through React, Typscript, Bootstrap tutorials.
+ - I have made an application with React, bootstrap and typescript: [link to the app](https://mnawar27.github.io/fitness-app/), repository link: [Repo](https://github.com/mnawar27/fitness-app.git) 
 
 ### TODO
 - Next I will be focusing more on TypeScript tooling which will help me to build web applications with Typescript.
