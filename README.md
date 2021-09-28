@@ -1,9 +1,10 @@
 # Hello! This is Maisha
-- github repository link: [maisha.github.io](https://github.com/mnawar27/maisha.github.io)
+# <img src = "sinthia.jpg" width="200" height= "250">
 - Name: Maisha Nawar
 - Major: Computer Science
-
+- Udel id: 702515682
 - email: mnawar@udel.edu
+- github repository link: [maisha.github.io](https://github.com/mnawar27/maisha.github.io)
 ## Change Log
 - I went through the “Typescript for JavaScript” tutorial and completed most of the modules.
 - I also went through a website that guides beginners setting up a Web Application with Typescript: [Beginner’s Guide to set up a Web Application with TypeScript](https://codeburst.io/a-beginners-guide-to-setting-up-a-web-application-with-typescript-and-express-e1cf8319bc5c)
