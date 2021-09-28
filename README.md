@@ -2,7 +2,7 @@
 - github repository link: [maisha.github.io](https://github.com/mnawar27/maisha.github.io)
 - Name: Maisha Nawar
 - Major: Computer Science
-- Udel id: 702515682
+
 - email: mnawar@udel.edu
 ## Change Log
 - I went through the “Typescript for JavaScript” tutorial and completed most of the modules.
