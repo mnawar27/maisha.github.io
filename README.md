@@ -3,7 +3,6 @@
 
 - Name: Maisha Nawar
 - Major: Computer Science
-- Udel id: 702515682
 - email: mnawar@udel.edu
 - github repository link: [maisha.github.io](https://github.com/mnawar27/maisha.github.io)
 ## Change Log
