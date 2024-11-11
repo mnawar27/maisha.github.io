@@ -1,8 +1,8 @@
 # Hello! This is Maisha
-# <img src = "sinthia.jpg" width="200" height= "250">
+# <img src = "MaishaPhoto.jpg" width="200" height= "250">
 
 - Name: Maisha Nawar
-- Major: Computer Science
+- Major: Computer Science (concentration: AI & Robotics)
 - email: mnawar@udel.edu
 - github repository link: [maisha.github.io](https://github.com/mnawar27/maisha.github.io)
 
