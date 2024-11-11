@@ -1,4 +1,4 @@
-# Hello! This is Maisha
+# Hello! This is Maisha :)
 # <img src = "MaishaPhoto.jpg" width="230" height= "250">
 
 - Name: Maisha Nawar
