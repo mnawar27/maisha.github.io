@@ -1,5 +1,5 @@
 # Hello! This is Maisha :)
-# <img src = "mn.jpeg">
+# <img src = "mn1.png" width="230" height= "250">
 
 - Name: Maisha Nawar
 - Major: Computer Science (concentration: AI & Robotics)
