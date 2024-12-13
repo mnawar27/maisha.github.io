@@ -4,7 +4,7 @@
 - Name: Maisha Nawar
 - Major: Computer Science (concentration: AI & Robotics)
 - email: mnawar@udel.edu
-- github repository link: [mnawar27]([https://github.com/mnawar27/maisha.github.io](https://github.com/mnawar27])
+- github repository link: [mnawar27](https://github.com/mnawar27)
 
 ## Change Log
 - I went through the “Typescript for JavaScript” tutorial and completed most of the modules.
